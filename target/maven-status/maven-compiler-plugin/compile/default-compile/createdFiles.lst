@@ -1,0 +1,6 @@
+com\miportfolio\nombre\Controller\PersonaController.class
+com\miportfolio\nombre\Interface\IPersonaService.class
+com\miportfolio\nombre\Entity\Persona.class
+com\miportfolio\nombre\Service\ImpPersonaService.class
+com\miportfolio\nombre\Repository\IPersonaRepository.class
+com\miportfolio\nombre\NombreApplication.class
